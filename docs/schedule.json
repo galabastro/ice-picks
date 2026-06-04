@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-03T21:05:35.594Z",
+  "scrapedAt": "2026-06-04T00:52:31.880Z",
   "rinks": [
     {
       "id": "snoking",
@@ -73,9 +73,9 @@
           "endRaw": "2:15pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 12,
-          "capacity": 400,
-          "spotsRemaining": 388,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -477,9 +477,9 @@
           "endRaw": "7:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 9,
+          "registered": 32,
           "capacity": 300,
-          "spotsRemaining": 291,
+          "spotsRemaining": 268,
           "rinkId": "kraken"
         },
         {
@@ -631,9 +631,9 @@
           "endRaw": "4:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 1,
+          "registered": 2,
           "capacity": 300,
-          "spotsRemaining": 299,
+          "spotsRemaining": 298,
           "rinkId": "kraken"
         },
         {
