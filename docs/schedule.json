@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-13T00:48:06.733Z",
+  "scrapedAt": "2026-06-13T05:32:35.777Z",
   "rinks": [
     {
       "id": "snoking",
@@ -73,9 +73,9 @@
           "endRaw": "8:15pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 9,
-          "capacity": 400,
-          "spotsRemaining": 391,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -101,9 +101,9 @@
           "endRaw": "8:45pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 10,
-          "capacity": 400,
-          "spotsRemaining": 390,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -115,9 +115,9 @@
           "endRaw": "1:30pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 399,
           "rinkId": "snoking",
           "partyWarning": true
         },
@@ -130,9 +130,9 @@
           "endRaw": "3:30pm",
           "location": "Renton",
           "price": 15,
-          "registered": 10,
+          "registered": 11,
           "capacity": 400,
-          "spotsRemaining": 390,
+          "spotsRemaining": 389,
           "rinkId": "snoking",
           "partyWarning": true
         },
@@ -160,9 +160,9 @@
           "endRaw": "4:30pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 3,
+          "registered": 4,
           "capacity": 400,
-          "spotsRemaining": 397,
+          "spotsRemaining": 396,
           "rinkId": "snoking"
         },
         {
