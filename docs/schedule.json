@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-26T09:07:08.243Z",
+  "scrapedAt": "2026-06-26T12:44:33.277Z",
   "rinks": [
     {
       "id": "snoking",
@@ -245,6 +245,62 @@
           "registered": 0,
           "capacity": 400,
           "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jun 30 2026",
+          "start": "Jun 30 2026 12:15pm",
+          "end": "Jun 30 2026 2:30pm",
+          "startRaw": "12:15pm",
+          "endRaw": "2:30pm",
+          "location": "Snoqualmie",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jun 30 2026",
+          "start": "Jun 30 2026 1:15pm",
+          "end": "Jun 30 2026 2:30pm",
+          "startRaw": "1:15pm",
+          "endRaw": "2:30pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jun 30 2026",
+          "start": "Jun 30 2026 1:45pm",
+          "end": "Jun 30 2026 3:15pm",
+          "startRaw": "1:45pm",
+          "endRaw": "3:15pm",
+          "location": "Kirkland",
+          "price": 15,
+          "registered": 0,
+          "capacity": 350,
+          "spotsRemaining": 350,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jun 30 2026",
+          "start": "Jun 30 2026 3:30pm",
+          "end": "Jun 30 2026 5:00pm",
+          "startRaw": "3:30pm",
+          "endRaw": "5:00pm",
+          "location": "Kirkland",
+          "price": 15,
+          "registered": 0,
+          "capacity": 350,
+          "spotsRemaining": 350,
           "rinkId": "snoking"
         },
         {
