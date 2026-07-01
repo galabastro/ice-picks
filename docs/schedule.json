@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-01T05:33:56.143Z",
+  "scrapedAt": "2026-07-01T09:08:59.775Z",
   "rinks": [
     {
       "id": "snoking",
@@ -8,62 +8,6 @@
       "color": "#1a6fc4",
       "url": "https://apps.daysmartrecreation.com/dash/x/#/online/snoking/event-registration?event_types=12&program_types=3",
       "sessions": [
-        {
-          "name": "Public Skate",
-          "date": "Jun 30 2026",
-          "start": "Jun 30 2026 12:15pm",
-          "end": "Jun 30 2026 2:30pm",
-          "startRaw": "12:15pm",
-          "endRaw": "2:30pm",
-          "location": "Snoqualmie",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Jun 30 2026",
-          "start": "Jun 30 2026 1:15pm",
-          "end": "Jun 30 2026 2:30pm",
-          "startRaw": "1:15pm",
-          "endRaw": "2:30pm",
-          "location": "Renton",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Jun 30 2026",
-          "start": "Jun 30 2026 1:45pm",
-          "end": "Jun 30 2026 3:15pm",
-          "startRaw": "1:45pm",
-          "endRaw": "3:15pm",
-          "location": "Kirkland",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Jun 30 2026",
-          "start": "Jun 30 2026 3:30pm",
-          "end": "Jun 30 2026 5:00pm",
-          "startRaw": "3:30pm",
-          "endRaw": "5:00pm",
-          "location": "Kirkland",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
         {
           "name": "Public Skate",
           "date": "Jul 1 2026",
@@ -357,6 +301,48 @@
           "capacity": 350,
           "spotsRemaining": 350,
           "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jul 7 2026",
+          "start": "Jul 7 2026 12:00pm",
+          "end": "Jul 7 2026 1:00pm",
+          "startRaw": "12:00pm",
+          "endRaw": "1:00pm",
+          "location": "Kirkland",
+          "price": 15,
+          "registered": 0,
+          "capacity": 130,
+          "spotsRemaining": 130,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jul 7 2026",
+          "start": "Jul 7 2026 12:45pm",
+          "end": "Jul 7 2026 2:15pm",
+          "startRaw": "12:45pm",
+          "endRaw": "2:15pm",
+          "location": "Snoqualmie",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Jul 7 2026",
+          "start": "Jul 7 2026 1:15pm",
+          "end": "Jul 7 2026 2:15pm",
+          "startRaw": "1:15pm",
+          "endRaw": "2:15pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
         }
       ],
       "error": null
@@ -370,20 +356,6 @@
       "sessions": [
         {
           "name": "Public Skate Matinee (M-F only)",
-          "date": "Jun 30 2026",
-          "start": "Jun 30 2026 11:15am",
-          "end": "Jun 30 2026 12:45pm",
-          "startRaw": "11:15am",
-          "endRaw": "12:45pm",
-          "location": "Kraken Community Iceplex",
-          "price": 15.86,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "kraken"
-        },
-        {
-          "name": "Public Skate Matinee (M-F only)",
           "date": "Jul 1 2026",
           "start": "Jul 1 2026 11:30am",
           "end": "Jul 1 2026 12:45pm",
@@ -391,23 +363,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 4,
+          "registered": 5,
           "capacity": 300,
-          "spotsRemaining": 296,
-          "rinkId": "kraken"
-        },
-        {
-          "name": "Canada Day Public Skate 7/1 6pm",
-          "date": "Jul 1 2026",
-          "start": "Jul 1 2026 6:00pm",
-          "end": "Jul 1 2026 7:30pm",
-          "startRaw": "6:00pm",
-          "endRaw": "7:30pm",
-          "location": "Kraken Community Iceplex",
-          "price": 15.86,
-          "registered": 23,
-          "capacity": 300,
-          "spotsRemaining": 277,
+          "spotsRemaining": 295,
           "rinkId": "kraken"
         },
         {
