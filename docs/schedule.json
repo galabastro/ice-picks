@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-03T13:52:49.243Z",
+  "scrapedAt": "2026-07-03T17:20:09.803Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "12:45pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 2,
+          "registered": 14,
           "capacity": 400,
-          "spotsRemaining": 398,
+          "spotsRemaining": 386,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "2:00pm",
           "location": "Renton",
           "price": 15,
-          "registered": 5,
+          "registered": 7,
           "capacity": 400,
-          "spotsRemaining": 395,
+          "spotsRemaining": 393,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "2:15pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 3,
+          "registered": 4,
           "capacity": 400,
-          "spotsRemaining": 397,
+          "spotsRemaining": 396,
           "rinkId": "snoking"
         },
         {
@@ -73,9 +73,9 @@
           "endRaw": "8:20pm",
           "location": "Renton",
           "price": 15,
-          "registered": 7,
+          "registered": 8,
           "capacity": 400,
-          "spotsRemaining": 393,
+          "spotsRemaining": 392,
           "rinkId": "snoking"
         },
         {
@@ -391,9 +391,9 @@
           "endRaw": "1:00pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 20,
+          "registered": 34,
           "capacity": 300,
-          "spotsRemaining": 280,
+          "spotsRemaining": 266,
           "rinkId": "kraken"
         },
         {
@@ -419,9 +419,9 @@
           "endRaw": "7:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 10,
+          "registered": 11,
           "capacity": 300,
-          "spotsRemaining": 290,
+          "spotsRemaining": 289,
           "rinkId": "kraken"
         },
         {
