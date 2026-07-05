@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-05T17:04:11.360Z",
+  "scrapedAt": "2026-07-05T20:53:38.103Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "2:20pm",
           "location": "Renton",
           "price": 15,
-          "registered": 5,
+          "registered": 17,
           "capacity": 400,
-          "spotsRemaining": 395,
+          "spotsRemaining": 383,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "2:45pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 9,
+          "registered": 32,
           "capacity": 350,
-          "spotsRemaining": 341,
+          "spotsRemaining": 318,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "4:00pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
+          "registered": 4,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 396,
           "rinkId": "snoking"
         },
         {
@@ -59,9 +59,9 @@
           "endRaw": "4:15pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 4,
+          "registered": 7,
           "capacity": 400,
-          "spotsRemaining": 396,
+          "spotsRemaining": 393,
           "rinkId": "snoking"
         },
         {
@@ -434,9 +434,9 @@
           "endRaw": "2:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 14,
+          "registered": 64,
           "capacity": 300,
-          "spotsRemaining": 286,
+          "spotsRemaining": 236,
           "rinkId": "kraken"
         },
         {
@@ -448,9 +448,9 @@
           "endRaw": "5:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 4,
+          "registered": 7,
           "capacity": 300,
-          "spotsRemaining": 296,
+          "spotsRemaining": 293,
           "rinkId": "kraken"
         },
         {
