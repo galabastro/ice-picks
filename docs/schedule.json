@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-07T10:51:02.002Z",
+  "scrapedAt": "2026-07-07T14:21:17.649Z",
   "rinks": [
     {
       "id": "snoking",
@@ -45,9 +45,9 @@
           "endRaw": "2:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 1,
+          "registered": 2,
           "capacity": 400,
-          "spotsRemaining": 399,
+          "spotsRemaining": 398,
           "rinkId": "snoking"
         },
         {
@@ -411,8 +411,163 @@
       "location": "Seattle, WA",
       "color": "#32b5b5",
       "url": "https://apps.daysmartrecreation.com/dash/x/#/online/kraken/event-registration?sport_ids=30",
-      "sessions": [],
-      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://apps.daysmartrecreation.com/dash/x/#/online/kraken/event-registration?sport_ids=30\", waiting until \"networkidle\"\n"
+      "sessions": [
+        {
+          "name": "Public Skate Weekday",
+          "date": "Jul 8 2026",
+          "start": "Jul 8 2026 6:00pm",
+          "end": "Jul 8 2026 7:30pm",
+          "startRaw": "6:00pm",
+          "endRaw": "7:30pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 2,
+          "capacity": 300,
+          "spotsRemaining": 298,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Weekday",
+          "date": "Jul 10 2026",
+          "start": "Jul 10 2026 4:30pm",
+          "end": "Jul 10 2026 5:45pm",
+          "startRaw": "4:30pm",
+          "endRaw": "5:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Fridays",
+          "date": "Jul 10 2026",
+          "start": "Jul 10 2026 6:15pm",
+          "end": "Jul 10 2026 7:45pm",
+          "startRaw": "6:15pm",
+          "endRaw": "7:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Saturdays",
+          "date": "Jul 11 2026",
+          "start": "Jul 11 2026 12:45pm",
+          "end": "Jul 11 2026 2:15pm",
+          "startRaw": "12:45pm",
+          "endRaw": "2:15pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 1,
+          "capacity": 300,
+          "spotsRemaining": 299,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Saturdays",
+          "date": "Jul 11 2026",
+          "start": "Jul 11 2026 3:15pm",
+          "end": "Jul 11 2026 4:45pm",
+          "startRaw": "3:15pm",
+          "endRaw": "4:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 4,
+          "capacity": 300,
+          "spotsRemaining": 296,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Saturdays",
+          "date": "Jul 11 2026",
+          "start": "Jul 11 2026 6:15pm",
+          "end": "Jul 11 2026 7:45pm",
+          "startRaw": "6:15pm",
+          "endRaw": "7:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Sensory Public Skate",
+          "date": "Jul 12 2026",
+          "start": "Jul 12 2026 11:15am",
+          "end": "Jul 12 2026 12:30pm",
+          "startRaw": "11:15am",
+          "endRaw": "12:30pm",
+          "location": "Kraken Community Iceplex",
+          "price": 10.85,
+          "registered": 0,
+          "capacity": 100,
+          "spotsRemaining": 100,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Sundays",
+          "date": "Jul 12 2026",
+          "start": "Jul 12 2026 1:00pm",
+          "end": "Jul 12 2026 2:45pm",
+          "startRaw": "1:00pm",
+          "endRaw": "2:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Sundays",
+          "date": "Jul 12 2026",
+          "start": "Jul 12 2026 4:15pm",
+          "end": "Jul 12 2026 5:45pm",
+          "startRaw": "4:15pm",
+          "endRaw": "5:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Matinee (M-F only)",
+          "date": "Jul 13 2026",
+          "start": "Jul 13 2026 11:00am",
+          "end": "Jul 13 2026 12:15pm",
+          "startRaw": "11:00am",
+          "endRaw": "12:15pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 1,
+          "capacity": 300,
+          "spotsRemaining": 299,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Weekday",
+          "date": "Jul 13 2026",
+          "start": "Jul 13 2026 4:30pm",
+          "end": "Jul 13 2026 6:00pm",
+          "startRaw": "4:30pm",
+          "endRaw": "6:00pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 3,
+          "capacity": 300,
+          "spotsRemaining": 297,
+          "rinkId": "kraken"
+        }
+      ],
+      "error": null
     }
   ]
 }
