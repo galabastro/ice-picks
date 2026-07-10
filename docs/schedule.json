@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-10T14:11:28.031Z",
+  "scrapedAt": "2026-07-10T17:53:59.299Z",
   "rinks": [
     {
       "id": "snoking",
@@ -40,9 +40,9 @@
           "endRaw": "7:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 3,
+          "registered": 6,
           "capacity": 300,
-          "spotsRemaining": 297,
+          "spotsRemaining": 294,
           "rinkId": "kraken"
         },
         {
@@ -54,9 +54,9 @@
           "endRaw": "2:15pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 4,
+          "registered": 6,
           "capacity": 300,
-          "spotsRemaining": 296,
+          "spotsRemaining": 294,
           "rinkId": "kraken"
         },
         {
