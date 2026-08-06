@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-06T02:06:14.341Z",
+  "scrapedAt": "2026-08-06T06:25:49.984Z",
   "rinks": [
     {
       "id": "snoking",
@@ -73,9 +73,9 @@
           "endRaw": "2:45pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 4,
+          "registered": 5,
           "capacity": 350,
-          "spotsRemaining": 346,
+          "spotsRemaining": 345,
           "rinkId": "snoking"
         },
         {
@@ -377,9 +377,9 @@
           "endRaw": "7:30pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 87,
-          "capacity": 300,
-          "spotsRemaining": 213,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "kraken"
         },
         {
@@ -391,9 +391,9 @@
           "endRaw": "12:30pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 11,
+          "registered": 12,
           "capacity": 300,
-          "spotsRemaining": 289,
+          "spotsRemaining": 288,
           "rinkId": "kraken"
         },
         {
@@ -478,6 +478,34 @@
           "registered": 5,
           "capacity": 300,
           "spotsRemaining": 295,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Sundays",
+          "date": "Aug 9 2026",
+          "start": "Aug 9 2026 1:00pm",
+          "end": "Aug 9 2026 2:30pm",
+          "startRaw": "1:00pm",
+          "endRaw": "2:30pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 3,
+          "capacity": 300,
+          "spotsRemaining": 297,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Sundays",
+          "date": "Aug 9 2026",
+          "start": "Aug 9 2026 4:15pm",
+          "end": "Aug 9 2026 5:45pm",
+          "startRaw": "4:15pm",
+          "endRaw": "5:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
           "rinkId": "kraken"
         },
         {
