@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-07T12:52:16.406Z",
+  "scrapedAt": "2026-08-07T16:48:33.834Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "12:45pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 0,
+          "registered": 5,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 395,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "2:00pm",
           "location": "Renton",
           "price": 15,
-          "registered": 3,
+          "registered": 6,
           "capacity": 400,
-          "spotsRemaining": 397,
+          "spotsRemaining": 394,
           "rinkId": "snoking"
         },
         {
@@ -59,9 +59,9 @@
           "endRaw": "8:20pm",
           "location": "Renton",
           "price": 15,
-          "registered": 1,
+          "registered": 3,
           "capacity": 400,
-          "spotsRemaining": 399,
+          "spotsRemaining": 397,
           "rinkId": "snoking"
         },
         {
@@ -213,9 +213,9 @@
           "endRaw": "5:30pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 399,
           "rinkId": "snoking"
         },
         {
@@ -349,9 +349,9 @@
           "endRaw": "7:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 14,
+          "registered": 16,
           "capacity": 300,
-          "spotsRemaining": 286,
+          "spotsRemaining": 284,
           "rinkId": "kraken"
         },
         {
@@ -377,9 +377,9 @@
           "endRaw": "2:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 1,
+          "registered": 2,
           "capacity": 300,
-          "spotsRemaining": 299,
+          "spotsRemaining": 298,
           "rinkId": "kraken"
         },
         {
