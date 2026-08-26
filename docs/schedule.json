@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T12:41:00.512Z",
+  "scrapedAt": "2026-08-26T16:44:31.555Z",
   "rinks": [
     {
       "id": "snoking",
@@ -31,9 +31,9 @@
           "endRaw": "3:00pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 350,
-          "spotsRemaining": 350,
+          "spotsRemaining": 349,
           "rinkId": "snoking"
         },
         {
@@ -236,49 +236,6 @@
         },
         {
           "name": "Public Skate",
-          "date": "Aug 30 2026",
-          "start": "Aug 30 2026 12:45pm",
-          "end": "Aug 30 2026 2:20pm",
-          "startRaw": "12:45pm",
-          "endRaw": "2:20pm",
-          "location": "Renton",
-          "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
-          "rinkId": "snoking",
-          "partyWarning": true
-        },
-        {
-          "name": "Public Skate",
-          "date": "Aug 30 2026",
-          "start": "Aug 30 2026 1:15pm",
-          "end": "Aug 30 2026 2:45pm",
-          "startRaw": "1:15pm",
-          "endRaw": "2:45pm",
-          "location": "Kirkland",
-          "price": 15,
-          "registered": 0,
-          "capacity": 350,
-          "spotsRemaining": 350,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Aug 30 2026",
-          "start": "Aug 30 2026 2:30pm",
-          "end": "Aug 30 2026 4:15pm",
-          "startRaw": "2:30pm",
-          "endRaw": "4:15pm",
-          "location": "Snoqualmie",
-          "price": 15,
-          "registered": 2,
-          "capacity": 400,
-          "spotsRemaining": 398,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
           "date": "Aug 31 2026",
           "start": "Aug 31 2026 12:45pm",
           "end": "Aug 31 2026 2:15pm",
@@ -436,9 +393,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 4,
+          "registered": 8,
           "capacity": 300,
-          "spotsRemaining": 296,
+          "spotsRemaining": 292,
           "rinkId": "kraken"
         },
         {
