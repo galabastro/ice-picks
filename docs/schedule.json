@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T15:58:09.981Z",
+  "scrapedAt": "2026-09-01T19:15:43.565Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "10:45am",
           "location": "Renton",
           "price": 15,
-          "registered": 2,
-          "capacity": 400,
-          "spotsRemaining": 398,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 1,
-          "capacity": 400,
-          "spotsRemaining": 399,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "12:30pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 4,
+          "registered": 7,
           "capacity": 350,
-          "spotsRemaining": 346,
+          "spotsRemaining": 343,
           "rinkId": "snoking"
         },
         {
@@ -59,9 +59,9 @@
           "endRaw": "1:45pm",
           "location": "Renton",
           "price": 15,
-          "registered": 3,
+          "registered": 11,
           "capacity": 400,
-          "spotsRemaining": 397,
+          "spotsRemaining": 389,
           "rinkId": "snoking"
         },
         {
@@ -73,9 +73,9 @@
           "endRaw": "2:30pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 2,
+          "registered": 9,
           "capacity": 350,
-          "spotsRemaining": 348,
+          "spotsRemaining": 341,
           "rinkId": "snoking"
         },
         {
@@ -319,6 +319,20 @@
         {
           "name": "Public Skate",
           "date": "Sep 5 2026",
+          "start": "Sep 5 2026 1:00pm",
+          "end": "Sep 5 2026 2:15pm",
+          "startRaw": "1:00pm",
+          "endRaw": "2:15pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 5 2026",
           "start": "Sep 5 2026 1:15pm",
           "end": "Sep 5 2026 3:00pm",
           "startRaw": "1:15pm",
@@ -333,10 +347,10 @@
         {
           "name": "Public Skate",
           "date": "Sep 5 2026",
-          "start": "Sep 5 2026 1:45pm",
-          "end": "Sep 5 2026 3:00pm",
-          "startRaw": "1:45pm",
-          "endRaw": "3:00pm",
+          "start": "Sep 5 2026 2:15pm",
+          "end": "Sep 5 2026 3:30pm",
+          "startRaw": "2:15pm",
+          "endRaw": "3:30pm",
           "location": "Renton",
           "price": 15,
           "registered": 1,
@@ -389,10 +403,10 @@
         {
           "name": "Public Skate",
           "date": "Sep 6 2026",
-          "start": "Sep 6 2026 3:45pm",
-          "end": "Sep 6 2026 4:45pm",
-          "startRaw": "3:45pm",
-          "endRaw": "4:45pm",
+          "start": "Sep 6 2026 2:30pm",
+          "end": "Sep 6 2026 3:45pm",
+          "startRaw": "2:30pm",
+          "endRaw": "3:45pm",
           "location": "Renton",
           "price": 15,
           "registered": 0,
@@ -408,6 +422,20 @@
           "startRaw": "3:15pm",
           "endRaw": "5:15pm",
           "location": "Snoqualmie",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 6 2026",
+          "start": "Sep 6 2026 4:00pm",
+          "end": "Sep 6 2026 5:15pm",
+          "startRaw": "4:00pm",
+          "endRaw": "5:15pm",
+          "location": "Renton",
           "price": 15,
           "registered": 0,
           "capacity": 400,
@@ -503,9 +531,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 4,
+          "registered": 42,
           "capacity": 300,
-          "spotsRemaining": 296,
+          "spotsRemaining": 258,
           "rinkId": "kraken"
         },
         {
