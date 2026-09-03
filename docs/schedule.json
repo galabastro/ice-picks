@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T02:40:26.444Z",
+  "scrapedAt": "2026-09-03T08:29:19.878Z",
   "rinks": [
     {
       "id": "snoking",
@@ -8,62 +8,6 @@
       "color": "#1a6fc4",
       "url": "https://apps.daysmartrecreation.com/dash/x/#/online/snoking/event-registration?event_types=12&program_types=3",
       "sessions": [
-        {
-          "name": "Public Skate",
-          "date": "Sep 2 2026",
-          "start": "Sep 2 2026 9:15am",
-          "end": "Sep 2 2026 11:30am",
-          "startRaw": "9:15am",
-          "endRaw": "11:30am",
-          "location": "Kirkland",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Sep 2 2026",
-          "start": "Sep 2 2026 10:45am",
-          "end": "Sep 2 2026 12:15pm",
-          "startRaw": "10:45am",
-          "endRaw": "12:15pm",
-          "location": "Renton",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Sep 2 2026",
-          "start": "Sep 2 2026 12:15pm",
-          "end": "Sep 2 2026 2:00pm",
-          "startRaw": "12:15pm",
-          "endRaw": "2:00pm",
-          "location": "Renton",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
-        {
-          "name": "Public Skate",
-          "date": "Sep 2 2026",
-          "start": "Sep 2 2026 12:45pm",
-          "end": "Sep 2 2026 2:30pm",
-          "startRaw": "12:45pm",
-          "endRaw": "2:30pm",
-          "location": "Snoqualmie",
-          "price": 15,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "snoking"
-        },
         {
           "name": "Public Skate",
           "date": "Sep 3 2026",
@@ -539,6 +483,62 @@
           "capacity": 350,
           "spotsRemaining": 350,
           "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 9 2026",
+          "start": "Sep 9 2026 9:15am",
+          "end": "Sep 9 2026 11:30am",
+          "startRaw": "9:15am",
+          "endRaw": "11:30am",
+          "location": "Kirkland",
+          "price": 15,
+          "registered": 0,
+          "capacity": 350,
+          "spotsRemaining": 350,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 9 2026",
+          "start": "Sep 9 2026 10:45am",
+          "end": "Sep 9 2026 12:15pm",
+          "startRaw": "10:45am",
+          "endRaw": "12:15pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 9 2026",
+          "start": "Sep 9 2026 12:15pm",
+          "end": "Sep 9 2026 2:00pm",
+          "startRaw": "12:15pm",
+          "endRaw": "2:00pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 9 2026",
+          "start": "Sep 9 2026 12:45pm",
+          "end": "Sep 9 2026 2:30pm",
+          "startRaw": "12:45pm",
+          "endRaw": "2:30pm",
+          "location": "Snoqualmie",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
         }
       ],
       "error": null
@@ -550,20 +550,6 @@
       "color": "#32b5b5",
       "url": "https://apps.daysmartrecreation.com/dash/x/#/online/kraken/event-registration?sport_ids=30",
       "sessions": [
-        {
-          "name": "Public Skate Matinee (M-F only)",
-          "date": "Sep 2 2026",
-          "start": "Sep 2 2026 11:30am",
-          "end": "Sep 2 2026 12:45pm",
-          "startRaw": "11:30am",
-          "endRaw": "12:45pm",
-          "location": "Kraken Community Iceplex",
-          "price": 15.86,
-          "registered": null,
-          "capacity": null,
-          "spotsRemaining": null,
-          "rinkId": "kraken"
-        },
         {
           "name": "Public Skate Matinee (M-F only)",
           "date": "Sep 3 2026",
@@ -730,6 +716,34 @@
           "registered": 0,
           "capacity": 300,
           "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Matinee (M-F only)",
+          "date": "Sep 9 2026",
+          "start": "Sep 9 2026 11:30am",
+          "end": "Sep 9 2026 12:45pm",
+          "startRaw": "11:30am",
+          "endRaw": "12:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 15.86,
+          "registered": 2,
+          "capacity": 300,
+          "spotsRemaining": 298,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "KCI 5 Year Anniversary Public Skate",
+          "date": "Sep 9 2026",
+          "start": "Sep 9 2026 5:30pm",
+          "end": "Sep 9 2026 6:30pm",
+          "startRaw": "5:30pm",
+          "endRaw": "6:30pm",
+          "location": "Kraken Community Iceplex",
+          "price": 5,
+          "registered": 20,
+          "capacity": 200,
+          "spotsRemaining": 180,
           "rinkId": "kraken"
         }
       ],
