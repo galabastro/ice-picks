@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-08T19:13:13.722Z",
+  "scrapedAt": "2026-09-08T22:18:50.586Z",
   "rinks": [
     {
       "id": "snoking",
@@ -31,9 +31,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 2,
-          "capacity": 400,
-          "spotsRemaining": 398,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "1:00pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 12,
-          "capacity": 350,
-          "spotsRemaining": 338,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -59,9 +59,9 @@
           "endRaw": "1:45pm",
           "location": "Renton",
           "price": 15,
-          "registered": 4,
-          "capacity": 400,
-          "spotsRemaining": 396,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -73,9 +73,9 @@
           "endRaw": "2:30pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -87,9 +87,9 @@
           "endRaw": "2:30pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 5,
-          "capacity": 350,
-          "spotsRemaining": 345,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -350,6 +350,20 @@
         {
           "name": "Public Skate",
           "date": "Sep 13 2026",
+          "start": "Sep 13 2026 2:00pm",
+          "end": "Sep 13 2026 3:15pm",
+          "startRaw": "2:00pm",
+          "endRaw": "3:15pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": 0,
+          "capacity": 400,
+          "spotsRemaining": 400,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Public Skate",
+          "date": "Sep 13 2026",
           "start": "Sep 13 2026 3:00pm",
           "end": "Sep 13 2026 4:15pm",
           "startRaw": "3:00pm",
@@ -365,9 +379,9 @@
         {
           "name": "Public Skate",
           "date": "Sep 13 2026",
-          "start": "Sep 13 2026 3:45pm",
+          "start": "Sep 13 2026 3:30pm",
           "end": "Sep 13 2026 4:45pm",
-          "startRaw": "3:45pm",
+          "startRaw": "3:30pm",
           "endRaw": "4:45pm",
           "location": "Renton",
           "price": 15,
@@ -465,9 +479,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 15.86,
-          "registered": 28,
-          "capacity": 300,
-          "spotsRemaining": 272,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "kraken"
         },
         {
@@ -493,9 +507,9 @@
           "endRaw": "6:30pm",
           "location": "Kraken Community Iceplex",
           "price": 5,
-          "registered": 67,
+          "registered": 70,
           "capacity": 200,
-          "spotsRemaining": 133,
+          "spotsRemaining": 130,
           "rinkId": "kraken"
         },
         {
