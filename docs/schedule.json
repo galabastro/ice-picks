@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T09:01:13.557Z",
+  "scrapedAt": "2026-09-16T15:59:49.496Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "11:30am",
           "location": "Kirkland",
           "price": 15,
-          "registered": 4,
+          "registered": 11,
           "capacity": 350,
-          "spotsRemaining": 346,
+          "spotsRemaining": 339,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 399,
           "rinkId": "snoking"
         },
         {
