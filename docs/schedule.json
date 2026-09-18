@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-18T08:41:20.754Z",
+  "scrapedAt": "2026-09-18T15:42:10.301Z",
   "rinks": [
     {
       "id": "snoking",
@@ -212,9 +212,9 @@
           "name": "Public Skate",
           "date": "Sep 21 2026",
           "start": "Sep 21 2026 12:15pm",
-          "end": "Sep 21 2026 1:45pm",
+          "end": "Sep 21 2026 1:30pm",
           "startRaw": "12:15pm",
-          "endRaw": "1:45pm",
+          "endRaw": "1:30pm",
           "location": "Renton",
           "price": 15,
           "registered": 0,
@@ -282,9 +282,9 @@
           "name": "Public Skate",
           "date": "Sep 22 2026",
           "start": "Sep 22 2026 12:15pm",
-          "end": "Sep 22 2026 1:45pm",
+          "end": "Sep 22 2026 1:30pm",
           "startRaw": "12:15pm",
-          "endRaw": "1:45pm",
+          "endRaw": "1:30pm",
           "location": "Renton",
           "price": 15,
           "registered": 0,
@@ -408,9 +408,9 @@
           "name": "Public Skate",
           "date": "Sep 24 2026",
           "start": "Sep 24 2026 12:15pm",
-          "end": "Sep 24 2026 1:45pm",
+          "end": "Sep 24 2026 1:30pm",
           "startRaw": "12:15pm",
-          "endRaw": "1:45pm",
+          "endRaw": "1:30pm",
           "location": "Renton",
           "price": 15,
           "registered": 0,
@@ -479,9 +479,9 @@
           "endRaw": "5:00pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 2,
+          "registered": 3,
           "capacity": 300,
-          "spotsRemaining": 298,
+          "spotsRemaining": 297,
           "rinkId": "kraken"
         },
         {
@@ -521,9 +521,9 @@
           "endRaw": "2:15pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 7,
+          "registered": 9,
           "capacity": 300,
-          "spotsRemaining": 293,
+          "spotsRemaining": 291,
           "rinkId": "kraken"
         },
         {
