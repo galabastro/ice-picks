@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T22:39:52.722Z",
+  "scrapedAt": "2026-09-23T02:59:50.608Z",
   "rinks": [
     {
       "id": "snoking",
@@ -101,9 +101,9 @@
           "endRaw": "11:30am",
           "location": "Kirkland",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 350,
-          "spotsRemaining": 350,
+          "spotsRemaining": 349,
           "rinkId": "snoking"
         },
         {
@@ -349,9 +349,9 @@
         {
           "name": "Public Skate",
           "date": "Sep 27 2026",
-          "start": "Sep 27 2026 1:30pm",
+          "start": "Sep 27 2026 1:15pm",
           "end": "Sep 27 2026 2:45pm",
-          "startRaw": "1:30pm",
+          "startRaw": "1:15pm",
           "endRaw": "2:45pm",
           "location": "Kirkland",
           "price": 15,
