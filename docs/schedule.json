@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-30T23:23:59.380Z",
+  "scrapedAt": "2026-10-01T03:46:10.318Z",
   "rinks": [
     {
       "id": "snoking",
@@ -87,9 +87,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 399,
           "rinkId": "snoking"
         },
         {
@@ -252,9 +252,9 @@
         {
           "name": "Public Skate",
           "date": "Oct 4 2026",
-          "start": "Oct 4 2026 1:30pm",
+          "start": "Oct 4 2026 1:00pm",
           "end": "Oct 4 2026 2:45pm",
-          "startRaw": "1:30pm",
+          "startRaw": "1:00pm",
           "endRaw": "2:45pm",
           "location": "Kirkland",
           "price": 15,
@@ -399,9 +399,9 @@
           "endRaw": "1:00pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 350,
-          "spotsRemaining": 350,
+          "spotsRemaining": 349,
           "rinkId": "snoking"
         },
         {
@@ -479,9 +479,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 0,
+          "registered": 1,
           "capacity": 300,
-          "spotsRemaining": 300,
+          "spotsRemaining": 299,
           "rinkId": "kraken"
         },
         {
