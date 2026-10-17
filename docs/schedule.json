@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-17T08:12:41.017Z",
+  "scrapedAt": "2026-10-17T14:50:58.598Z",
   "rinks": [
     {
       "id": "snoking",
@@ -32,9 +32,9 @@
           "endRaw": "3:00pm",
           "location": "Renton",
           "price": 15,
-          "registered": 5,
+          "registered": 6,
           "capacity": 400,
-          "spotsRemaining": 395,
+          "spotsRemaining": 394,
           "rinkId": "snoking",
           "partyWarning": true
         },
@@ -47,9 +47,9 @@
           "endRaw": "4:30pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 5,
+          "registered": 6,
           "capacity": 400,
-          "spotsRemaining": 395,
+          "spotsRemaining": 394,
           "rinkId": "snoking",
           "partyWarning": true
         },
