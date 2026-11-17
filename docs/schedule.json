@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-17T12:42:40.385Z",
+  "scrapedAt": "2026-11-17T23:17:22.960Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "10:45am",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "1:00pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 2,
-          "capacity": 350,
-          "spotsRemaining": 348,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -59,9 +59,9 @@
           "endRaw": "1:30pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -73,9 +73,9 @@
           "endRaw": "2:30pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -87,9 +87,9 @@
           "endRaw": "2:30pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 0,
-          "capacity": 350,
-          "spotsRemaining": 350,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -283,9 +283,9 @@
           "endRaw": "2:00pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 0,
+          "registered": 2,
           "capacity": 350,
-          "spotsRemaining": 350,
+          "spotsRemaining": 348,
           "rinkId": "snoking",
           "partyWarning": true
         },
@@ -298,9 +298,9 @@
           "endRaw": "3:00pm",
           "location": "Renton",
           "price": 15,
-          "registered": 2,
+          "registered": 4,
           "capacity": 400,
-          "spotsRemaining": 398,
+          "spotsRemaining": 396,
           "rinkId": "snoking",
           "partyWarning": true
         },
@@ -451,9 +451,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 3,
-          "capacity": 300,
-          "spotsRemaining": 297,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "kraken"
         },
         {
@@ -465,9 +465,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 1,
+          "registered": 2,
           "capacity": 300,
-          "spotsRemaining": 299,
+          "spotsRemaining": 298,
           "rinkId": "kraken"
         },
         {
@@ -479,9 +479,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 0,
+          "registered": 2,
           "capacity": 300,
-          "spotsRemaining": 300,
+          "spotsRemaining": 298,
           "rinkId": "kraken"
         },
         {
@@ -521,9 +521,9 @@
           "endRaw": "7:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 7,
+          "registered": 9,
           "capacity": 300,
-          "spotsRemaining": 293,
+          "spotsRemaining": 291,
           "rinkId": "kraken"
         },
         {
@@ -535,9 +535,9 @@
           "endRaw": "10:15pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 7,
+          "registered": 9,
           "capacity": 300,
-          "spotsRemaining": 293,
+          "spotsRemaining": 291,
           "rinkId": "kraken"
         },
         {
