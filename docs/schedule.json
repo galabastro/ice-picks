@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-18T16:53:40.858Z",
+  "scrapedAt": "2026-11-19T01:37:51.897Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "11:30am",
           "location": "Kirkland",
           "price": 15,
-          "registered": 8,
-          "capacity": 350,
-          "spotsRemaining": 342,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "2:00pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -59,9 +59,9 @@
           "endRaw": "2:30pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 0,
-          "capacity": 400,
-          "spotsRemaining": 400,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "snoking"
         },
         {
@@ -243,9 +243,9 @@
           "endRaw": "2:45pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 6,
+          "registered": 7,
           "capacity": 350,
-          "spotsRemaining": 344,
+          "spotsRemaining": 343,
           "rinkId": "snoking"
         },
         {
@@ -451,23 +451,9 @@
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 4,
-          "capacity": 300,
-          "spotsRemaining": 296,
-          "rinkId": "kraken"
-        },
-        {
-          "name": "Public Skate Matinee (M-F only)",
-          "date": "Nov 19 2026",
-          "start": "Nov 19 2026 11:15am",
-          "end": "Nov 19 2026 12:45pm",
-          "startRaw": "11:15am",
-          "endRaw": "12:45pm",
-          "location": "Kraken Community Iceplex",
-          "price": 16.29,
-          "registered": 2,
-          "capacity": 300,
-          "spotsRemaining": 298,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
           "rinkId": "kraken"
         },
         {
@@ -563,37 +549,9 @@
           "endRaw": "7:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 5,
+          "registered": 6,
           "capacity": 300,
-          "spotsRemaining": 295,
-          "rinkId": "kraken"
-        },
-        {
-          "name": "Public Skate Sundays",
-          "date": "Nov 22 2026",
-          "start": "Nov 22 2026 1:15pm",
-          "end": "Nov 22 2026 2:45pm",
-          "startRaw": "1:15pm",
-          "endRaw": "2:45pm",
-          "location": "Kraken Community Iceplex",
-          "price": 16.29,
-          "registered": 4,
-          "capacity": 300,
-          "spotsRemaining": 296,
-          "rinkId": "kraken"
-        },
-        {
-          "name": "Public Skate Sundays",
-          "date": "Nov 22 2026",
-          "start": "Nov 22 2026 4:30pm",
-          "end": "Nov 22 2026 6:00pm",
-          "startRaw": "4:30pm",
-          "endRaw": "6:00pm",
-          "location": "Kraken Community Iceplex",
-          "price": 16.29,
-          "registered": 2,
-          "capacity": 300,
-          "spotsRemaining": 298,
+          "spotsRemaining": 294,
           "rinkId": "kraken"
         },
         {
@@ -633,9 +591,9 @@
           "endRaw": "2:30pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 2,
+          "registered": 5,
           "capacity": 300,
-          "spotsRemaining": 298,
+          "spotsRemaining": 295,
           "rinkId": "kraken"
         }
       ],
