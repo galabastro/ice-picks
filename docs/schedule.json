@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-27T02:36:41.933Z",
+  "scrapedAt": "2026-11-27T13:25:34.011Z",
   "rinks": [
     {
       "id": "snoking",
@@ -17,9 +17,9 @@
           "endRaw": "12:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
+          "registered": 5,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 395,
           "rinkId": "snoking"
         },
         {
@@ -31,9 +31,9 @@
           "endRaw": "1:30pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 20,
+          "registered": 30,
           "capacity": 300,
-          "spotsRemaining": 280,
+          "spotsRemaining": 270,
           "rinkId": "snoking"
         },
         {
@@ -45,9 +45,9 @@
           "endRaw": "1:30pm",
           "location": "Renton",
           "price": 15,
-          "registered": 0,
+          "registered": 9,
           "capacity": 400,
-          "spotsRemaining": 400,
+          "spotsRemaining": 391,
           "rinkId": "snoking"
         },
         {
@@ -73,9 +73,9 @@
           "endRaw": "2:45pm",
           "location": "Renton",
           "price": 15,
-          "registered": 1,
+          "registered": 2,
           "capacity": 400,
-          "spotsRemaining": 399,
+          "spotsRemaining": 398,
           "rinkId": "snoking"
         },
         {
@@ -115,9 +115,9 @@
           "endRaw": "8:00pm",
           "location": "Kirkland",
           "price": 15,
-          "registered": 0,
+          "registered": 1,
           "capacity": 300,
-          "spotsRemaining": 300,
+          "spotsRemaining": 299,
           "rinkId": "snoking"
         },
         {
@@ -129,9 +129,9 @@
           "endRaw": "1:30pm",
           "location": "Snoqualmie",
           "price": 15,
-          "registered": 11,
+          "registered": 13,
           "capacity": 400,
-          "spotsRemaining": 389,
+          "spotsRemaining": 387,
           "rinkId": "snoking"
         },
         {
@@ -172,9 +172,9 @@
           "endRaw": "4:15pm",
           "location": "Renton",
           "price": 15,
-          "registered": 12,
+          "registered": 13,
           "capacity": 400,
-          "spotsRemaining": 388,
+          "spotsRemaining": 387,
           "rinkId": "snoking"
         },
         {
@@ -471,6 +471,76 @@
           "capacity": null,
           "spotsRemaining": null,
           "rinkId": "snoking"
+        },
+        {
+          "name": "Sno-Skate Lane",
+          "date": "Dec 3 2026",
+          "start": "Dec 3 2026 9:15am",
+          "end": "Dec 3 2026 10:45am",
+          "startRaw": "9:15am",
+          "endRaw": "10:45am",
+          "location": "Renton",
+          "price": 15,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Sno-Skate Lane",
+          "date": "Dec 3 2026",
+          "start": "Dec 3 2026 10:45am",
+          "end": "Dec 3 2026 12:15pm",
+          "startRaw": "10:45am",
+          "endRaw": "12:15pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Sno-Skate Lane",
+          "date": "Dec 3 2026",
+          "start": "Dec 3 2026 12:15pm",
+          "end": "Dec 3 2026 1:30pm",
+          "startRaw": "12:15pm",
+          "endRaw": "1:30pm",
+          "location": "Renton",
+          "price": 15,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Sno-Skate Lane",
+          "date": "Dec 3 2026",
+          "start": "Dec 3 2026 12:45pm",
+          "end": "Dec 3 2026 2:00pm",
+          "startRaw": "12:45pm",
+          "endRaw": "2:00pm",
+          "location": "Kirkland",
+          "price": 15,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
+          "rinkId": "snoking"
+        },
+        {
+          "name": "Sno-Skate Lane",
+          "date": "Dec 3 2026",
+          "start": "Dec 3 2026 12:45pm",
+          "end": "Dec 3 2026 2:30pm",
+          "startRaw": "12:45pm",
+          "endRaw": "2:30pm",
+          "location": "Snoqualmie",
+          "price": 15,
+          "registered": null,
+          "capacity": null,
+          "spotsRemaining": null,
+          "rinkId": "snoking"
         }
       ],
       "error": null
@@ -491,9 +561,9 @@
           "endRaw": "5:30pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 43,
+          "registered": 77,
           "capacity": 300,
-          "spotsRemaining": 257,
+          "spotsRemaining": 223,
           "rinkId": "kraken"
         },
         {
@@ -519,9 +589,9 @@
           "endRaw": "10:00pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 16,
+          "registered": 21,
           "capacity": 300,
-          "spotsRemaining": 284,
+          "spotsRemaining": 279,
           "rinkId": "kraken"
         },
         {
@@ -533,9 +603,9 @@
           "endRaw": "2:30pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 33,
+          "registered": 39,
           "capacity": 300,
-          "spotsRemaining": 267,
+          "spotsRemaining": 261,
           "rinkId": "kraken"
         },
         {
@@ -547,9 +617,9 @@
           "endRaw": "5:00pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 13,
+          "registered": 14,
           "capacity": 300,
-          "spotsRemaining": 287,
+          "spotsRemaining": 286,
           "rinkId": "kraken"
         },
         {
@@ -561,9 +631,9 @@
           "endRaw": "7:15pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 7,
+          "registered": 12,
           "capacity": 300,
-          "spotsRemaining": 293,
+          "spotsRemaining": 288,
           "rinkId": "kraken"
         },
         {
@@ -575,9 +645,9 @@
           "endRaw": "2:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 6,
+          "registered": 8,
           "capacity": 300,
-          "spotsRemaining": 294,
+          "spotsRemaining": 292,
           "rinkId": "kraken"
         },
         {
@@ -589,9 +659,9 @@
           "endRaw": "6:00pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
-          "registered": 5,
+          "registered": 6,
           "capacity": 300,
-          "spotsRemaining": 295,
+          "spotsRemaining": 294,
           "rinkId": "kraken"
         },
         {
@@ -642,6 +712,20 @@
           "start": "Dec 2 2026 11:30am",
           "end": "Dec 2 2026 12:45pm",
           "startRaw": "11:30am",
+          "endRaw": "12:45pm",
+          "location": "Kraken Community Iceplex",
+          "price": 16.29,
+          "registered": 0,
+          "capacity": 300,
+          "spotsRemaining": 300,
+          "rinkId": "kraken"
+        },
+        {
+          "name": "Public Skate Matinee (M-F only)",
+          "date": "Dec 3 2026",
+          "start": "Dec 3 2026 11:15am",
+          "end": "Dec 3 2026 12:45pm",
+          "startRaw": "11:15am",
           "endRaw": "12:45pm",
           "location": "Kraken Community Iceplex",
           "price": 16.29,
